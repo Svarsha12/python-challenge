@@ -1,6 +1,6 @@
 Python assignmengts- PyBank & PyPoll.
 
-Two complete python chaleenges PyBank & PyPoll
+Two complete python challenges PyBank & PyPoll
 
 PyBank:Analyze the financial rocord of the company.
 
