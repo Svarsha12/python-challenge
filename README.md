@@ -29,13 +29,13 @@ An analysis folder that contains your text file that has the results from your a
 
 Folders and work:
 
-Created PyBank folder,inside PyBank created Resources folder, Financial analysis folder and main.ipynb jupiter workbook
+Created PyBank folder,inside PyBank created Resources folder, Financial analysis folder and main.ipynb jupiter notebook
 Inside Resources, I have budget_data_csv file and inside Financial analysis-> analysis.txt file & analysis1.txt file
 I work on main.ipynb jupiter workbook
 
 And exported the results/answer on analysis1.txt file for PyBank
 
-Created PyPoll folder,inside PyPoll created Resources folder, Election Results folder and main.ipynb jupiter workbook
+Created PyPoll folder,inside PyPoll created Resources folder, Election Results folder and main.ipynb jupiter notebook
 Inside Resources, I have election_data_csv file and inside Election Results-> election1.txt file & election.txt file
 I work on main.ipynb jupiter workbook
 
@@ -53,9 +53,9 @@ Write one script for each of the provided datasets. Run each script separately t
 Always commit your work and back it up with pushes to GitHub or GitLab. You don't want to lose hours of your hard work! 
 
 Taken into consideration all the above hints. 
-I completed PyBank & PyPoll python projects by consulting python documentation, went through all class works and took some help from xpertlearning. 
+I completed PyBank & PyPoll python projects by consulting python documentation, went through all class materials and took some help from xpertlearning. 
 
-Despite encountering challenges in seeking certain answers, I exerted my utmost effort and determination to successfully obtain the required information for the project.
+Despite encountering challenges in seeking certain answers, I exerted my utmost effort and determination to successfully get the results for the projects.
 
 
 
