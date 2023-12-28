@@ -1,0 +1,5 @@
+Total number of months:85
+Total: 22564198.0
+Average_change: -8311.105882352942
+The greatest increase in profits: Feb-17 (382539)
+The greatest decrease in profit was on Dec-10 (-1194133)
