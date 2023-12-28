@@ -30,13 +30,13 @@ An analysis folder that contains your text file that has the results from your a
 Folders and work:
 
 Created PyBank folder,inside PyBank created Resources folder, Financial analysis folder and main.ipynb jupiter notebook
-Inside Resources, I have budget_data_csv file and inside Financial analysis-> analysis.txt file & analysis1.txt file
+Inside Resources, I have budget_data_csv file and inside Financial analysis folder-> analysis.txt file & analysis1.txt file
 I work on main.ipynb jupiter workbook
 
 And exported the results/answer on analysis1.txt file for PyBank
 
 Created PyPoll folder,inside PyPoll created Resources folder, Election Results folder and main.ipynb jupiter notebook
-Inside Resources, I have election_data_csv file and inside Election Results-> election1.txt file & election.txt file
+Inside Resources, I have election_data_csv file and inside Election Results folder-> election1.txt file & election.txt file
 I work on main.ipynb jupiter workbook
 
 And exported the results/answer on election1.txt file for PyPoll
